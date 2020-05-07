@@ -1,0 +1,26 @@
+{
+    "amount": 2999,
+    "countGoods": null,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 9009,
+            "product_name": "куртка",
+            "sex": "men",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "size": [
+                "XS",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "price": 2999,
+            "img": "/img/men/men_1.png",
+            "category": "Accessories",
+            "featured": false
+        }
+    ]
+}
